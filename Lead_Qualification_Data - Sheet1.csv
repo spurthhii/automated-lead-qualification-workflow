@@ -1,0 +1,14 @@
+Lead Name,Email,Industry,Company Size,Engagement Level,Lead Score,Lead Bucket,Last Action Taken ,,,,,Industry,Industry Score
+Ananya Sharma,ananya@techcorp.com,Technology,250,High,50,Hot,,20,15,15,,Technology,20
+Rahul Mehta,rahul@healthplus.com,Healthcare,80,Medium,35,Warm,,15,10,10,,Healthcare,15
+Sneha Iyer,sneha@startupx.io,Other,12,Low,25,Cold,,5,10,10,,Finance,10
+,,Technology,200,High,50,Hot,,20,15,15,,Other,5
+,,,,,#N/A,#N/A,,#N/A,5,5,,Engagement,Engagement Score
+,,,,,#N/A,#N/A,,#N/A,5,5,,High,20
+,,,,,#N/A,#N/A,,#N/A,5,5,,Medium,10
+,,,,,#N/A,#N/A,,#N/A,5,5,,Low,5
+,,,,,#N/A,#N/A,,#N/A,5,5,,Company Size,Score
+,,,,,#N/A,#N/A,,#N/A,5,5,,≥ 500,20
+,,,,,#N/A,#N/A,,#N/A,5,5,,100–499,15
+,,,,,#N/A,#N/A,,#N/A,5,5,,10–99,10
+,,,,,#N/A,#N/A,,#N/A,5,5,,< 10,5
